@@ -6,5 +6,5 @@ www:
     config:
         node_version: v0.8.x
     
-db:
+data:
     type: mongodb
